@@ -1,0 +1,12 @@
+{
+  "embedColorSuccess": "57F287",
+  "embedColorWarning": "FEE75C",
+  "embedColorError": "ED4245",
+  "embedColorBot": "5865F2",
+  "devs": ["1211695322720501820", "1142772923023753216"],
+  "botId": "1213590472082067538",
+  "supportServer": "https://discord.gg/Q2kKpwxNCK",
+  "botInvite": "https://discord.com/oauth2/authorize?client_id=1213590472082067538&permissions=8&scope=bot+applications.commands",
+  "prefix": "?",
+  "enabled": true
+}
